@@ -4,7 +4,7 @@
 //@ini_set('display_errors', 1);
 
 /*
-Plugin Name: WordPress Button Classes
+Plugin Name: WordPress Button Styles
 URI: https://github.com/nhangen/wordpress-buttons
 Description: A simple WordPress plugin for bringing default admin button classes to the front end so that your buttons can stop looking ugly.
 Version: 1.0

@@ -1,4 +1,4 @@
-=== WordPress Buttons ===
+=== WordPress Button Styles ===
 Contributors: nhangen
 Tags: button, css, styles
 Requires at least: 3.2
